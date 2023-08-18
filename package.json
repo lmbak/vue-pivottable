@@ -13,7 +13,9 @@
     ".": {
       "import": "./dist/vue-pivottable.mjs",
       "require": "./dist/vue-pivottable.umd.js"
-    }
+    },
+    "./plotly-renderer": "./packages/plotly-renderer/dist/plotly-renderer.mjs",
+    "./vue-pivottable.css": "./dist/vue-pivottable.css"
   },
   "repository": {
     "type": "git",
